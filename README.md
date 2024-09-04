@@ -18,3 +18,6 @@ C:\Program Files\nodejs -> .\
 +-- firebase-tools@13.15.4
 `-- npm@10.2.4
 ```
+
+# JS Notes
+***async*** means function returns promise
