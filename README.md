@@ -9,6 +9,12 @@ Currently, two official plugins are available:
 
 
 # MC Notes
+## Simple Blog Post App
+## Needs backend listening on 8080
+```
+cd backend
+npm app
+```
 **npm**
 list all globally installed packages
 ```angular2html
